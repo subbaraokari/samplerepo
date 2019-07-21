@@ -7,4 +7,8 @@ class Emp
         this.eno=eno;
         this.name=name;
     }
+    void setEno(int eno)
+    {
+        this.eno=eno;
+    }
 }
